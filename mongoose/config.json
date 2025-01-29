@@ -1,0 +1,6 @@
+{
+    "MongoDB": {
+        "ConnectionString": "xxxx", // enter your mongodb config
+        "DatabaseName": "School"
+    }
+}
